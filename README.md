@@ -52,3 +52,32 @@ How does the toss decision vary across teams and seasons?
 
 <a href="https://github.com/pathakgrv56/IPL-Data-2018-2024-/blob/main/IPL%20Excel%20Project-1%20Dashboard.jpeg"> Dashboard View </a>
 
+# Step-by-Step Process of Building the Dashboard
+
+1. Data Collection and Cleaning:
+   - Imported the dataset into Excel.
+   - Cleaned the data by removing duplicates and ensuring consistency.
+   - Formatted data using tables for better structure and usability.
+
+2. Creating Pivot Tables:
+   - Created pivot tables to extract insights such as match wins, player performance, and title distribution.
+   - Organized data based on season, team, venue, and toss decisions.
+
+3. Implementing Data Visualizations:
+   - Designed various charts, including stacked column charts, pie charts, bar charts, and treemaps.
+   - Ensured that the visualizations were informative and easy to interpret.
+
+4. Adding Slicers for Interactivity:
+   - Integrated season, team, and venue slicers.
+   - Connected slicers with pivot tables to enable interactive data exploration.
+
+5. Finalizing the Dashboard Layout:
+   - Structured elements in a clear and user-friendly format.
+   - Applied consistent color schemes to differentiate categories.
+   - Tested interactivity and refined visuals for better usability.
+
+# DashBoard 
+![IPL Excel Project-1 Dashboard](https://github.com/user-attachments/assets/2179564a-fa1b-486a-ac9d-b4102468683a)
+
+
+
