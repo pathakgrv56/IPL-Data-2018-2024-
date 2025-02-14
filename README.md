@@ -89,7 +89,7 @@ Through this project, I gained valuable skills such as:
 - Power BI Integration: Enhancing visualization capabilities.
 - SQL Implementation: Efficient querying and data manipulation.
 - Python for Data Analysis: Performing advanced statistical analysis.
-- 
+  
 # Conclusion
 This IPL dashboard project is an essential step in my data analytics journey. By utilizing Excel’s analytical tools, I was able to convert raw data into meaningful insights. This project has improved my data visualization and analytical skills, which are crucial for roles in business analytics, data science, and decision-making fields.
 
