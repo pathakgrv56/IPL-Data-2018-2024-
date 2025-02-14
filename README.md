@@ -6,7 +6,7 @@ An interactive Excel Dashboard analyzing IPL data from 2008-2024 using Pivot Tab
 
 <a href="https://www.careerpower.in/ipl-winners-list.html"> Winner List </a>
 
-#KPIs
+# KPIs
 
 How many matches has each team played and won across all seasons?
 
@@ -48,6 +48,7 @@ How do different seasons compare in terms of match outcomes?
 
 How does the toss decision vary across teams and seasons?
 
-#Dashboard Overview
+# Dashboard Overview
+
 <a href="https://github.com/pathakgrv56/IPL-Data-2018-2024-/blob/main/IPL%20Excel%20Project-1%20Dashboard.jpeg"> Dashboard View </a>
 
